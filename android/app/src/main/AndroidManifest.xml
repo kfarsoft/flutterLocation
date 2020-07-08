@@ -14,7 +14,7 @@
         android:label="RealTimeLocation"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAA7N3lgEQsVvJtQyHlnQedZGI1CGOfikc"/>
+            android:value=""/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
